@@ -1,0 +1,14 @@
+ctrl + s = save command
+ctrl + z = undo command
+ctrl + a = highlight all command 
+ctrl c = copy
+ctrl v = paste
+new-item.txt # create file in powershell
+
+# steps
+untracked file -- add -- commit -- push
+git status
+git add . or git add name of file
+
+#  git config --global unit.defaultbranch main
+ 
