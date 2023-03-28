@@ -11,4 +11,8 @@ git status
 git add . or git add name of file
 
 #  git config --global unit.defaultbranch main
+
+add something new
  
+git remote add origin <url ending in .git>
+git push -u origin main
